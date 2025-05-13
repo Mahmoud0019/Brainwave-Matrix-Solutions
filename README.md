@@ -33,6 +33,8 @@ Sales Forecasting: Understanding the monthly sales trends can help in forecastin
 Product Performance: Identifying top-performing products (by unit price) can inform inventory management, marketing efforts, and product development strategies.
 Further Exploration: This overview can lead to more specific questions, such as: What drives the profitability of the Furniture category? What is the impact of discounts on different product categories? What are the reasons behind the monthly sales fluctuations?
 
+### Second pic 
+
 ![Screanshot (495).](https://github.com/Mahmoud0019/Brainwave-Matrix-Solutions/blob/main/2.png)
 
 ### Description:
